@@ -60,6 +60,6 @@ ________________________________________
 •	Integrar testes de API com Postman
 ________________________________________
 📄 Conclusão
-Este projeto demonstra um fluxo completo de QA Jr, indo além de apenas escrever testes: foca em valor para o cliente, rastreabilidade e clareza na execução. Ideal para mostrar competências reais a recrutadores ou ao seu futuro time.
+Este projeto demonstra um fluxo completo de QA Jr, indo além de apenas escrever testes: foca em valor para o cliente, rastreabilidade e clareza na execução.
 ________________________________________
 Feito por Carlos Evaristo 🚀
