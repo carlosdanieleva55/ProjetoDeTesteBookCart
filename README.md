@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Projeto QA: Plataforma Book Cart
 
 Este repositório simula um projeto de QA completo aplicado a uma plataforma fictícia de e-commerce. O foco é a prática das etapas do STLC (Software Testing Life Cycle), desde o levantamento de requisitos até a execução dos testes e o controle de defeitos.
@@ -74,5 +75,7 @@ Este projeto foi desenvolvido com fins educacionais e de portfólio para demonst
 🔗 [Acesse a suíte de testes e os documentos no repositório](https://github.com/carlosdanieleva55/ProjetoDeTesteBookCart)
 
 ---
+
+=======
 
 
