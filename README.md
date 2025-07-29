@@ -75,6 +75,4 @@ Este projeto foi desenvolvido com fins educacionais e de portfólio para demonst
 
 ---
 
-## 📷 Exemplo da Suíte de Testes
 
-![Roteiro de Testes](./evidencias/exemplo-suite.png)
