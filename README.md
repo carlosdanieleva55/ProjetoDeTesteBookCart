@@ -43,6 +43,7 @@ Projeto Book Cart/
     ├── Controle de Defeitos
     ├── Matriz de Rastreabilidade
     └── Ambiente de Teste
+    └── Métricas
 ```
 
 ---
